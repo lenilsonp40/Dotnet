@@ -28,3 +28,18 @@
 /home/lenilson/Estudos/Programação/GitHub/C# - DotNet/Balta/MeuApp/obj/Debug/net6.0/ref/MeuApp.dll
 /home/lenilson/Estudos/Programação/GitHub/C# - DotNet/Balta/MeuApp/obj/Debug/net6.0/MeuApp.pdb
 /home/lenilson/Estudos/Programação/GitHub/C# - DotNet/Balta/MeuApp/obj/Debug/net6.0/MeuApp.genruntimeconfig.cache
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/bin/Debug/net6.0/MeuApp
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/bin/Debug/net6.0/MeuApp.deps.json
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/bin/Debug/net6.0/MeuApp.runtimeconfig.json
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/bin/Debug/net6.0/MeuApp.dll
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/bin/Debug/net6.0/ref/MeuApp.dll
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/bin/Debug/net6.0/MeuApp.pdb
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/obj/Debug/net6.0/MeuApp.csproj.AssemblyReference.cache
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/obj/Debug/net6.0/MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/obj/Debug/net6.0/MeuApp.AssemblyInfoInputs.cache
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/obj/Debug/net6.0/MeuApp.AssemblyInfo.cs
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/obj/Debug/net6.0/MeuApp.csproj.CoreCompileInputs.cache
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/obj/Debug/net6.0/MeuApp.dll
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/obj/Debug/net6.0/ref/MeuApp.dll
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/obj/Debug/net6.0/MeuApp.pdb
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/obj/Debug/net6.0/MeuApp.genruntimeconfig.cache

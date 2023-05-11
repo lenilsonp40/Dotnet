@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lenilson/Estudos/Programação/GitHub/C# - DotNet/Balta/MeuApp/MeuApp.csproj": {}
+    "/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/MeuApp.csproj": {}
   },
   "projects": {
-    "/home/lenilson/Estudos/Programação/GitHub/C# - DotNet/Balta/MeuApp/MeuApp.csproj": {
+    "/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/MeuApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lenilson/Estudos/Programação/GitHub/C# - DotNet/Balta/MeuApp/MeuApp.csproj",
+        "projectUniqueName": "/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/MeuApp.csproj",
         "projectName": "MeuApp",
-        "projectPath": "/home/lenilson/Estudos/Programação/GitHub/C# - DotNet/Balta/MeuApp/MeuApp.csproj",
+        "projectPath": "/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/MeuApp.csproj",
         "packagesPath": "/home/lenilson/.nuget/packages/",
-        "outputPath": "/home/lenilson/Estudos/Programação/GitHub/C# - DotNet/Balta/MeuApp/obj/",
+        "outputPath": "/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lenilson/.nuget/NuGet/NuGet.Config"
