@@ -6,22 +6,26 @@ namespace MeuApp
     {
         static void Main(string[] args)
         {
-            int idade = 18;
-            int maioridade = 21;
-            int idadeMaxima = 65;
+            MeuMetodo();
 
-            if (idade >= maioridade && idade < idadeMaxima)
-            {
-                Console.WriteLine("É Diferente");
-            }
-            else
-            {
-                Console.WriteLine("É igual");
-            }
-
-            Console.WriteLine("Finalizou o programa");
+            string nome =  RetornaNome("Lenilson", "Soares", 31);
+            Console.WriteLine(nome);
         }
+
+        static void MeuMetodo()
+        {
+            Console.WriteLine("C# é legal");
+        }
+
+        static string RetornaNome(
+            string nome,
+            string sobrenome,
+            int idade 
+        )
+        {
+            return nome + " " + sobrenome + " tem " + idade.ToString();
+        }
+
     }
+
 }
-
-
