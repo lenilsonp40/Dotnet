@@ -6,26 +6,27 @@ namespace MeuApp
     {
         static void Main(string[] args)
         {
-            MeuMetodo();
-
-            string nome =  RetornaNome("Lenilson", "Soares", 31);
-            Console.WriteLine(nome);
+            Product mouse =  new Product(1, "Mouse gamer", 299.97);
+            Console.WriteLine(mouse.Id);
+             Console.WriteLine(mouse.Name);
+              Console.WriteLine(mouse.Price);
         }
-
-        static void MeuMetodo()
-        {
-            Console.WriteLine("C# é legal");
-        }
-
-        static string RetornaNome(
-            string nome,
-            string sobrenome,
-            int idade 
-        )
-        {
-            return nome + " " + sobrenome + " tem " + idade.ToString();
-        }
-
     }
 
+    struct Product
+    {
+        public Product(int id, string name, double price)
+        {
+            Id =  id;
+            Name = name;
+            Price = price;
+        }
+        public int Id;
+        public string Name;
+        public double Price;
+
+        public double PriceInDolar(double dolar) {
+            return Price * dolar;
+        }
+    }
 }
