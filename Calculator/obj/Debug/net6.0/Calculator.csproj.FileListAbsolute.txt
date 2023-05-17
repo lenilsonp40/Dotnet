@@ -1,0 +1,15 @@
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/bin/Debug/net6.0/Calculator
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/bin/Debug/net6.0/Calculator.dll
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/bin/Debug/net6.0/ref/Calculator.dll
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/bin/Debug/net6.0/Calculator.pdb
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/obj/Debug/net6.0/Calculator.dll
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/obj/Debug/net6.0/ref/Calculator.dll
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/obj/Debug/net6.0/Calculator.pdb
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
