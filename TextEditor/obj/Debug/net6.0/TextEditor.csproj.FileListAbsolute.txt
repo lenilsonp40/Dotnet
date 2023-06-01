@@ -1,0 +1,15 @@
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/bin/Debug/net6.0/TextEditor
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/bin/Debug/net6.0/TextEditor.deps.json
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/bin/Debug/net6.0/TextEditor.runtimeconfig.json
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/bin/Debug/net6.0/TextEditor.dll
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/bin/Debug/net6.0/ref/TextEditor.dll
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/bin/Debug/net6.0/TextEditor.pdb
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/obj/Debug/net6.0/TextEditor.csproj.AssemblyReference.cache
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/obj/Debug/net6.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfoInputs.cache
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfo.cs
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/obj/Debug/net6.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/obj/Debug/net6.0/TextEditor.dll
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/obj/Debug/net6.0/ref/TextEditor.dll
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/obj/Debug/net6.0/TextEditor.pdb
+/home/lenilson/Estudos/Programação/GitHub/Dotnet/TextEditor/obj/Debug/net6.0/TextEditor.genruntimeconfig.cache
