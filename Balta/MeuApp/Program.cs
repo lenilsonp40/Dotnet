@@ -6,10 +6,9 @@ namespace MeuApp
     {
         static void Main(string[] args)
         {
-            double price = 10.2;
-            string texto = $"O preço do produto é {price}";
-
-            Console.WriteLine(texto);
+            Console.Clear();
+            var data = new DateTime();
+            Console.WriteLine(data);
         }
     }
 }
