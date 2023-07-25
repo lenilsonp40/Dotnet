@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nD8NvA8OXoyyuZFguHiiynkK0V23fqp6lE22/hlw7S2w+SP+MUU99fAK7Utngl8yvg08fgjZaGh/z/N1TCA7mw==",
+  "dgSpecHash": "dgLg/FkNnGqZcX5+qsrieIxs/wJhaZOekWRCQHh+RM73DRs8Nke+un8+ZS4sZWXsLSZWQH4Bi0Y0K1zI4EQYMw==",
   "success": true,
-  "projectFilePath": "/home/lenilson/Estudos/Programação/GitHub/Dotnet/Balta/MeuApp/MeuApp.csproj",
+  "projectFilePath": "C:\\Estudos\\Programação\\GitHub\\Dotnet\\Balta\\MeuApp\\MeuApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

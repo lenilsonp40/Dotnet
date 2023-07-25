@@ -1,0 +1,7 @@
+C:\Estudos\Programação\GitHub\Dotnet\Balta\Valideixo\obj\Debug\net6.0\Valideixo.csproj.AssemblyReference.cache
+C:\Estudos\Programação\GitHub\Dotnet\Balta\Valideixo\obj\Debug\net6.0\Valideixo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Programação\GitHub\Dotnet\Balta\Valideixo\obj\Debug\net6.0\Valideixo.AssemblyInfoInputs.cache
+C:\Estudos\Programação\GitHub\Dotnet\Balta\Valideixo\obj\Debug\net6.0\Valideixo.AssemblyInfo.cs
+C:\Estudos\Programação\GitHub\Dotnet\Balta\Valideixo\obj\Debug\net6.0\Valideixo.csproj.CoreCompileInputs.cache
+C:\Estudos\Programação\GitHub\Dotnet\Balta\Valideixo\obj\Debug\net6.0\Valideixo.MvcApplicationPartsAssemblyInfo.cs
+C:\Estudos\Programação\GitHub\Dotnet\Balta\Valideixo\obj\Debug\net6.0\Valideixo.MvcApplicationPartsAssemblyInfo.cache
