@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\Dev\\GitHub\\Dotnet\\Todo\\Todo.csproj": {}
+    "C:\\Estudos\\Dev\\GitHub\\dotnet\\Todo\\Todo.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\Dev\\GitHub\\Dotnet\\Todo\\Todo.csproj": {
+    "C:\\Estudos\\Dev\\GitHub\\dotnet\\Todo\\Todo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\Dev\\GitHub\\Dotnet\\Todo\\Todo.csproj",
+        "projectUniqueName": "C:\\Estudos\\Dev\\GitHub\\dotnet\\Todo\\Todo.csproj",
         "projectName": "Todo",
-        "projectPath": "C:\\Estudos\\Dev\\GitHub\\Dotnet\\Todo\\Todo.csproj",
+        "projectPath": "C:\\Estudos\\Dev\\GitHub\\dotnet\\Todo\\Todo.csproj",
         "packagesPath": "C:\\Users\\lenil\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\Dev\\GitHub\\Dotnet\\Todo\\obj\\",
+        "outputPath": "C:\\Estudos\\Dev\\GitHub\\dotnet\\Todo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenil\\AppData\\Roaming\\NuGet\\NuGet.Config",
