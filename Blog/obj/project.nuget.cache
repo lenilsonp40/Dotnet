@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CNKglzR5uAWv5S3jD/PN38Vnj4Tm7zLl62XMaAJ0NBSro7H98jMd+MmqL976TilHiH/KuytyQumlx8WNgxrDcA==",
+  "dgSpecHash": "vS1jnesHyGxs2JuIZpGsMKYnO9z+OmAcodo46R/pX0ALJ/m+NLjdeDUy+8K7DTod84OMUcEyaInOaNCuLnXbpQ==",
   "success": true,
-  "projectFilePath": "C:\\Estudos\\Dev\\GitHub\\dotnet\\Blog\\Blog.csproj",
+  "projectFilePath": "C:\\Estudos\\Dev\\GitHub\\DotNet\\Blog\\Blog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenil\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\lenil\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -17,6 +17,7 @@
     "C:\\Users\\lenil\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.9\\microsoft.entityframeworkcore.design.7.0.9.nupkg.sha512",
     "C:\\Users\\lenil\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.9\\microsoft.entityframeworkcore.relational.7.0.9.nupkg.sha512",
     "C:\\Users\\lenil\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.9\\microsoft.entityframeworkcore.sqlserver.7.0.9.nupkg.sha512",
+    "C:\\Users\\lenil\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.9\\microsoft.entityframeworkcore.tools.7.0.9.nupkg.sha512",
     "C:\\Users\\lenil\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\lenil\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\lenil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

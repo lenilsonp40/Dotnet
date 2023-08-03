@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\Dev\\GitHub\\dotnet\\Blog\\Blog.csproj": {}
+    "C:\\Estudos\\Dev\\GitHub\\DotNet\\Blog\\Blog.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\Dev\\GitHub\\dotnet\\Blog\\Blog.csproj": {
+    "C:\\Estudos\\Dev\\GitHub\\DotNet\\Blog\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\Dev\\GitHub\\dotnet\\Blog\\Blog.csproj",
+        "projectUniqueName": "C:\\Estudos\\Dev\\GitHub\\DotNet\\Blog\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "C:\\Estudos\\Dev\\GitHub\\dotnet\\Blog\\Blog.csproj",
+        "projectPath": "C:\\Estudos\\Dev\\GitHub\\DotNet\\Blog\\Blog.csproj",
         "packagesPath": "C:\\Users\\lenil\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\Dev\\GitHub\\dotnet\\Blog\\obj\\",
+        "outputPath": "C:\\Estudos\\Dev\\GitHub\\DotNet\\Blog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,6 +48,12 @@
               "version": "[7.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.9, )"
             }
